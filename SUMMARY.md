@@ -5,7 +5,10 @@
     * [1.2 slice](chapter01/1.2-slice.md)
     * [1.3 map](chapter01/1.3-map.md)
     * [1.4 struct](chapter01/1.4-struct.md)
-
+* [第二章：常见控制结构实现原理](chapter02/README.md)
+    * [2.1 defer](chapter02/2.1-defer.md)
+    * [2.2 select](chapter02/2.2-select.md)
+    * [2.3 range](chapter02/2.3-range.md)
 * [第三章：协程](chapter03/README.md)
     * [3.1 协程](chapter03/README.md)
     * [3.2 Goroutine](chapter03/README.md)
