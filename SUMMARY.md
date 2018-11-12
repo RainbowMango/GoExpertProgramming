@@ -1,5 +1,5 @@
 # Summary
-* [前言](README.md)
+* [前言](FOREWORD.md)
 * [第一章：常见数据结构实现原理](chapter01/README.md)
     * [1.1 chan](chapter01/1.1-chan.md)
     * [1.2 slice](chapter01/1.2-slice.md)
