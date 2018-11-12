@@ -5,4 +5,4 @@
 [GitHub](https://github.com/RainbowMango/GoExpertProgramming)
 
 # 联系作者(发现内容有误或参与写作)
-[邮件](mail:qdurenhongcai@gmail.com)
+[邮件](mailto:qdurenhongcai@gmail.com)
