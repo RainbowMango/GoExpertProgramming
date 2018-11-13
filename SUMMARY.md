@@ -17,5 +17,8 @@
     * [4.1 内存分配原理](chapter04/4.1-memory_alloc.md)
     * [4.2 垃圾回收原理](chapter04/4.2-garbage_collection.md)
     * [4.3 逃逸分析](chapter04/4.3-escape_analysis.md)
-
+* [第五章：并发控制](chapter05/README.md)
+    * [5.1 Channel](chapter05/5.1-channel.md)
+    * [5.2 WaitGroup](chapter05/5.2-waitgroup.md)
+    * [5.3 Context](chapter05/5.3-context.md)
 
