@@ -21,4 +21,5 @@
     * [5.1 Channel](chapter05/5.1-channel.md)
     * [5.2 WaitGroup](chapter05/5.2-waitgroup.md)
     * [5.3 Context](chapter05/5.3-context.md)
-
+* [第六章：反射](chapter06/README.md)
+    * [6.1 反射机制](chapter06/6.1-reflect.md)
