@@ -10,6 +10,7 @@
     * [2.2 select](chapter02/2.2-select.md)
     * [2.3 range](chapter02/2.3-range.md)
     * [2.4 mutex](chapter02/2.4-mutex.md)
+    * [2.5 rwmutex](chapter02/2.5-rwmutex.md)
 * [第三章：协程](chapter03/README.md)
     * [3.1 协程调度](chapter03/3.1-go_schedule.md)
 * [第四章：内存管理](chapter04/README.md)
