@@ -28,3 +28,4 @@
     * [7.1 go test简介](chapter07/7.1-foreword.md)
     * [7.2 go test快速开始](chapter07/7.2-foreword.md)
         * [7.2.1 单元测试](chapter07/7.2.1-unit_test.md)
+        * [7.2.1 性能测试](chapter07/7.2.2-benchmark_test.md)
