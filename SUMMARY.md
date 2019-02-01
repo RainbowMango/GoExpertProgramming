@@ -26,5 +26,5 @@
     * [6.1 反射机制](chapter06/6.1-reflect.md)
 * [第七章：go test](chapter07/README.md)
     * [7.1 go test简介](chapter07/7.1-foreword.md)
-    * [7.2 go test使用举例](chapter07/7.2-foreword.md)
-        * [7.2.1 功能测试](chapter07/7.2.1-unit_test.md)
+    * [7.2 go test快速开始](chapter07/7.2-foreword.md)
+        * [7.2.1 单元测试](chapter07/7.2.1-unit_test.md)
