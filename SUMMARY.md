@@ -29,4 +29,4 @@
     * [7.2 快速开始](chapter07/7.2-foreword.md)
         * [7.2.1 单元测试](chapter07/7.2.1-unit_test.md)
         * [7.2.2 性能测试](chapter07/7.2.2-benchmark_test.md)
-        * [7.2.3 例子测试](chapter07/7.2.3-example_test.md)
+        * [7.2.3 示例测试](chapter07/7.2.3-example_test.md)
