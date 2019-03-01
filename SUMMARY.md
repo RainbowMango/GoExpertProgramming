@@ -29,3 +29,6 @@
         * [7.1.1 单元测试](chapter07/7.1.1-unit_test.md)
         * [7.1.2 性能测试](chapter07/7.1.2-benchmark_test.md)
         * [7.1.3 示例测试](chapter07/7.1.3-example_test.md)
+    * [7.2 进阶测试](chapter07/7.2-foreword.md)
+        * [7.2.1 子测试](chapter07/7.2.1-sub_test.md)
+        * [7.2.2 Main测试](chapter07/7.2.2-main_test.md)
