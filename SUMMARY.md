@@ -40,3 +40,5 @@
         * [7.3.5 示例测试实现原理](chapter07/7.3.5-example.md)
         * [7.3.6 Main测试实现原理](chapter07/7.3.6-main.md)
         * [7.3.7 go test工作机制](chapter07/7.3.7-go_test.md)
+    * [7.4 go test参数](chapter07/7.4-foreword.md)
+        * [7.4.1 参数](chapter07/7.4.1-parameter.md)
