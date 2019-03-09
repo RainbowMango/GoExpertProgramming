@@ -6,6 +6,7 @@
     * [1.3 map](chapter01/1.3-map.md)
     * [1.4 struct](chapter01/1.4-struct.md)
     * [1.5 iota](chapter01/1.5-iota.md)
+    * [1.6 string](chapter01/1.6-string.md)
 * [第二章：常见控制结构实现原理](chapter02/README.md)
     * [2.1 defer](chapter02/2.1-defer.md)
     * [2.2 select](chapter02/2.2-select.md)
