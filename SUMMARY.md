@@ -43,3 +43,7 @@
         * [7.3.7 go test工作机制](chapter07/7.3.7-go_test.md)
     * [7.4 go test参数](chapter07/7.4-foreword.md)
         * [7.4.1 参数](chapter07/7.4.1-parameter.md)
+* [第八章：httptest](chapter08/README.md)
+* [第九章：定时器](chapter09/README.md)
+    * [9.1 Timer]
+        * [9.1.1 快速开始](chapter09/9.1.1-timer_quick_start.md)
