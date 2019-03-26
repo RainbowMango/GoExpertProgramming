@@ -47,3 +47,4 @@
 * [第九章：定时器](chapter09/README.md)
     * [9.1 Timer]
         * [9.1.1 快速开始](chapter09/9.1.1-timer_quick_start.md)
+        * [9.1.2 实现原理](chapter09/9.1.2-timer_principle.md)
