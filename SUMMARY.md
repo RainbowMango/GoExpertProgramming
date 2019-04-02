@@ -45,6 +45,6 @@
         * [7.4.1 参数](chapter07/7.4.1-parameter.md)
 * [第八章：httptest](chapter08/README.md)
 * [第九章：定时器](chapter09/README.md)
-    * [9.1 Timer]
+    * [9.1 Timer](chapter09/9.1-foreword.md)
         * [9.1.1 快速开始](chapter09/9.1.1-timer_quick_start.md)
         * [9.1.2 实现原理](chapter09/9.1.2-timer_principle.md)
