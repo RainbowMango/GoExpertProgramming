@@ -48,3 +48,4 @@
     * [9.1 Timer](chapter09/9.1-foreword.md)
         * [9.1.1 快速开始](chapter09/9.1.1-timer_quick_start.md)
         * [9.1.2 实现原理](chapter09/9.1.2-timer_principle.md)
+    * [9.2 Ticker](chapter09/9.2-foreword.md)
