@@ -52,3 +52,4 @@
         * [9.2.1 快速开始](chapter09/9.2.1-ticker_quick_start.md)
         * [9.2.2 实现原理](chapter09/9.2.2-ticker_principle.md)
     * [9.3 timer](chapter09/9.3-foreword.md)
+        * [9.3.1 实现原理](chapter09/9.3.1-timersproc_principle.md)
