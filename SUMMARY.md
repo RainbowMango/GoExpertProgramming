@@ -55,3 +55,4 @@
         * [9.3.1 实现原理](chapter09/9.3.1-timersproc_principle.md)
     * [9.4 案例](chapter09/9.4-foreword.md)
         * [9.4.1 开源库资源泄露](chapter09/9.4.1-ticker_leak_case.md)
+* [第十章：语法糖](chapter10/README.md)
