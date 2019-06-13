@@ -59,3 +59,4 @@
     * [10.1 简短变量声明](chapter10/1-foreword.md)
         * [10.1.1 热身测验](chapter10/1.1-warmup.md)
         * [10.1.2 使用规则](chapter10/1.2-rules.md)
+    * [10.2 可变参函数](chapter10/2-variadic.md)
