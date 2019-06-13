@@ -56,5 +56,5 @@
     * [9.4 案例](chapter09/9.4-foreword.md)
         * [9.4.1 开源库资源泄露](chapter09/9.4.1-ticker_leak_case.md)
 * [第十章：语法糖](chapter10/README.md)
-    * [10.1 热身测验]()
+    * [10.1 简短变量声明](chapter10/1-foreword.md)
         * [10.1.1 热身测验](chapter10/1.1-warmup.md)
