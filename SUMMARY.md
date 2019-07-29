@@ -60,3 +60,6 @@
         * [10.1.1 热身测验](chapter10/1.1-warmup.md)
         * [10.1.2 使用规则](chapter10/1.2-rules.md)
     * [10.2 可变参函数](chapter10/2-variadic.md)
+* [第十一章：GO语言版本管理](chapter11/README.md)
+    * [11.1 GO语言安装](chapter11/1.1-install.md)
+    * [11.2 GO语言卸载](chapter11/1.2-uninstall.md)
