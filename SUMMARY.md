@@ -9,6 +9,7 @@
     * [1.6 string](chapter01/1.6-string.md)
 * [第二章：常见控制结构实现原理](chapter02/README.md)
     * [2.1 defer](chapter02/2.1-defer.md)
+        * [2.1.1 defer 陷阱](chapter02/2.1.1-defer-recover.md)
     * [2.2 select](chapter02/2.2-select.md)
     * [2.3 range](chapter02/2.3-range.md)
     * [2.4 mutex](chapter02/2.4-mutex.md)
