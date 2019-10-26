@@ -65,3 +65,4 @@
     * [11.1 GO语言安装](chapter11/1.1-install.md)
     * [11.2 GO语言卸载](chapter11/1.2-uninstall.md)
 * [附录一：编程陷阱](appendix/README.md)
+    * [1 append](appendix/append.md)
