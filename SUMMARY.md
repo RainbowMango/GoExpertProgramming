@@ -64,6 +64,7 @@
 * [第十一章：GO语言版本管理](chapter11/README.md)
     * [11.1 GO语言安装](chapter11/1.1-install.md)
     * [11.2 GO语言卸载](chapter11/1.2-uninstall.md)
+* [第十二章：GO依赖管理](chapter12/README.md)
 * [附录一：编程陷阱](appendix/README.md)
     * [1 切片追加](appendix/append.md)
     * [2 循环变量绑定](appendix/unpinned.md)
