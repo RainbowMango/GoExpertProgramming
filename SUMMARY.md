@@ -67,6 +67,7 @@
 * [第十二章：GO依赖管理](chapter12/README.md)
     * [12.1 GOPATH](chapter12/1-gopath.md)
     * [12.1 vendor](chapter12/2-vendor.md)
+    * [12.1 module](chapter12/3-foreword.md)
 * [附录一：编程陷阱](appendix/README.md)
     * [1 切片追加](appendix/append.md)
     * [2 循环变量绑定](appendix/unpinned.md)
