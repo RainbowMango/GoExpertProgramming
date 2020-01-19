@@ -70,6 +70,7 @@
     * [12.3 module](chapter12/3-foreword.md)
         * [12.3.1 基础概念](chapter12/3.1-basic.md)
         * [12.3.2 快速实践](chapter12/3.2-quickstart.md)
+        * [12.3.3 replace指令](chapter12/3.3-module-replace.md)
 * [附录一：编程陷阱](appendix/README.md)
     * [1 切片追加](appendix/append.md)
     * [2 循环变量绑定](appendix/unpinned.md)
