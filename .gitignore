@@ -16,3 +16,6 @@
 
 # Output of build
 pkg
+
+# OSX trash
+.DS_Store
