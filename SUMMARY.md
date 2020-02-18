@@ -75,6 +75,7 @@
         * [12.3.5 indirect含义](chapter12/3.5-module-indirect.md)
         * [12.3.6 版本选择机制](chapter12/3.6-module-version.md)
         * [12.3.7 incompatible](chapter12/3.7-module-incompatible.md)
+        * [12.3.8 伪版本](chapter12/3.8-module-pseudo-version.md)
 * [附录一：编程陷阱](appendix/README.md)
     * [1 切片追加](appendix/append.md)
     * [2 循环变量绑定](appendix/unpinned.md)
