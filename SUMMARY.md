@@ -26,7 +26,7 @@
     * [5.3 Context](chapter05/5.3-context.md)
 * [第六章：反射](chapter06/README.md)
     * [6.1 反射机制](chapter06/6.1-reflect.md)
-* [第七章：go test](chapter07/README.md)
+* [第七章：测试](chapter07/README.md)
     * [7.1 快速开始](chapter07/7.1-foreword.md)
         * [7.1.1 单元测试](chapter07/7.1.1-unit_test.md)
         * [7.1.2 性能测试](chapter07/7.1.2-benchmark_test.md)
