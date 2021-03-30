@@ -1,9 +1,7 @@
-package gotest_test
+package gotest
 
 import (
 	"testing"
-
-	"github.com/rainbowmango/goexpertprogramming/source/gotest"
 )
 
 // sub1 为子测试，只做加法测试
@@ -12,7 +10,7 @@ func sub1(t *testing.T) {
 	var b = 2
 	var expected = 3
 
-	actual := gotest.Add(a, b)
+	actual := Add(a, b)
 	if actual != expected {
 		t.Errorf("Add(%d, %d) = %d; expected: %d", a, b, actual, expected)
 	}
@@ -24,7 +22,7 @@ func sub2(t *testing.T) {
 	var b = 2
 	var expected = 3
 
-	actual := gotest.Add(a, b)
+	actual := Add(a, b)
 	if actual != expected {
 		t.Errorf("Add(%d, %d) = %d; expected: %d", a, b, actual, expected)
 	}
@@ -36,7 +34,7 @@ func sub3(t *testing.T) {
 	var b = 2
 	var expected = 3
 
-	actual := gotest.Add(a, b)
+	actual := Add(a, b)
 	if actual != expected {
 		t.Errorf("Add(%d, %d) = %d; expected: %d", a, b, actual, expected)
 	}
